@@ -6,7 +6,7 @@
 - Aplicação de decorators e utilização de models;
 - Utilização de repositories;
 - Relacionamento entre as tabelas;
-- Fazendo validações com o class-validator;
+- Validações com o class-validator;
 - Utilização de heranças (redução).
 
 
